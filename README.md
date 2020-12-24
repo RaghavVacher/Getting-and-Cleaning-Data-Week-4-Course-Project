@@ -5,11 +5,11 @@
 2. Read the files via data.table
 3. use the program written to tidy the data 
 
-#New Dataset
+# New Dataset
 
 It creates a new dataset from the overall data set with the average of each variable for each activity and each subject.
 
-#Original README file included in the download
+# Original README file included in the download
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
